@@ -1,0 +1,10 @@
+${AnsiColor.BRIGHT_BLACK}
+${AnsiColor.BRIGHT_GREEN}     /$$$$$ /$$       /$$$$$$$       ${AnsiColor.BRIGHT_MAGENTA} /$$$$$$$  /$$$$$$$$ /$$      /$$  /$$$$$$
+${AnsiColor.BRIGHT_GREEN}    |__  $$| $$      | $$__  $$      ${AnsiColor.BRIGHT_MAGENTA}| $$__  $$| $$_____/| $$$    /$$$ /$$__  $$
+${AnsiColor.BRIGHT_GREEN}       | $$| $$      | $$  \ $$      ${AnsiColor.BRIGHT_MAGENTA}| $$  \ $$| $$      | $$$$  /$$$$| $$  \ $$
+${AnsiColor.BRIGHT_GREEN}       | $$| $$      | $$$$$$$       ${AnsiColor.BRIGHT_MAGENTA}| $$  | $$| $$$$$   | $$ $$/$$ $$| $$  | $$
+${AnsiColor.BRIGHT_GREEN}  /$$  | $$| $$      | $$__  $$      ${AnsiColor.BRIGHT_MAGENTA}| $$  | $$| $$__/   | $$  $$$| $$| $$  | $$
+${AnsiColor.BRIGHT_GREEN} | $$  | $$| $$      | $$  \ $$      ${AnsiColor.BRIGHT_MAGENTA}| $$  | $$| $$      | $$\  $ | $$| $$  | $$
+${AnsiColor.BRIGHT_GREEN} |  $$$$$$/| $$$$$$$$| $$$$$$$/      ${AnsiColor.BRIGHT_MAGENTA}| $$$$$$$/| $$$$$$$$| $$ \/  | $$|  $$$$$$/
+${AnsiColor.BRIGHT_GREEN}  \______/ |________/|_______/       ${AnsiColor.BRIGHT_MAGENTA}|_______/ |________/|__/     |__/ \______/
+${AnsiColor.BRIGHT_BLACK}

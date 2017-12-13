@@ -1,0 +1,23 @@
+server:
+  port: 9999
+  tomcat:
+    accesslog:
+      enabled: true
+      directory: logs/demo-access.log
+endpoints:
+  enabled: false
+  health:
+    enabled: true
+security:
+  basic:
+    enabled: true
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+      naming:
+        strategy: org.hibernate.cfg.EJB3NamingStrategy
+  rabbitmq:
+    addresses: amqp://${rabbitmq.host:10.10.10.10}:${rabbitmq.port:5672}
+    username: jlb
+    password: rabbit#jlb#123

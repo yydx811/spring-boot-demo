@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo
+  cloud:
+    zookeeper:
+      connect-string: ${demo.zk.url:10.10.10.10:2181}
